@@ -1,1 +1,4 @@
-Semana 1, realización de la wiki (planteamineto de un proyecto de delivery)
+Semana 2, Caso de Estudio 
+- Objetivos de Negocio
+- Restricciones de Negocio
+- Restricciones de Software
