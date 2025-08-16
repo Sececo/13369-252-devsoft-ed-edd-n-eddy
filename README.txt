@@ -1,0 +1,1 @@
+Semana 1, realización de la wiki (planteamineto de un proyecto de delivery)
