@@ -107,7 +107,7 @@
 | Usuario que expresa esta restricción                                                     | Director de Tecnología                                                                                                                                              |
 | Justificación para esta restricción                                                 | El Equipo de desarrollo conoce este lenguaje.                                                             |
 | Cómo considera que pueda afectar la arquitectura del sistema esta restricción | El desarrollo del proyecto se vera limitado en algunos aspectos, aunque se vera potenciado en temas de analitica.       |
-## Restriccion 7
+## Restriccion 8
 
 | Descripción de la Restricción                                                   | Realizar el desarrollo en Python. |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -115,7 +115,7 @@
 | Justificación para esta restricción                                                 | El Equipo de desarrollo conoce este lenguaje.                                                             |
 | Cómo considera que pueda afectar la arquitectura del sistema esta restricción | El desarrollo del proyecto se vera limitado en algunos aspectos, aunque se vera potenciado en temas de analitica ppor las librerias de Python.       |
 
-## Restriccion 8
+## Restriccion 9
 
 | Descripción de la Restricción                                                   | Número de confirmación de la orden |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -123,7 +123,7 @@
 | Justificación para esta restricción                                                 | Dar seguridad al cliente a la hora de ordenar en linea, además de servir con identificador unico para hacer el seguimiento de su pedido.                                                             |
 | Cómo considera que pueda afectar la arquitectura del sistema esta restricción | El número del pedido debe ser mostrado en pantalla y enviado via e-mail, por ende se debe integrar una api que permita el envio automatico de estos email a los usuarios.       |
 
-## Restriccion 9
+## Restriccion 10
 
 | Descripción de la Restricción                                                   | El sistema debe permitir autoescalamiento de sus servicios para procesar un numero mayor de consultas. |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -131,7 +131,7 @@
 | Justificación para esta restricción                                                 | Evitar colapsos del sistema y sus servicios.                                                             |
 | Cómo considera que pueda afectar la arquitectura del sistema esta restricción | El sistema debe ser alojado en un servicio como Azure, AWS o Google Cloud, el cual permita el autoescalamiento de los recursos y posteriormente su retrocesos a los valores predefinidos si es el caso.       |
 
-## Restriccion 10
+## Restriccion 11
 
 | Descripción de la Restricción                                                   | Implementación de IA. |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
